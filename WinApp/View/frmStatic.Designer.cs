@@ -35,22 +35,22 @@ namespace WinApp.View
             this.panel1 = new System.Windows.Forms.Panel();
             this.panel2 = new System.Windows.Forms.Panel();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.btnLoad = new System.Windows.Forms.Button();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.cbDeviceName = new System.Windows.Forms.ComboBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.idDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.createdatDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.temperatureDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.humidityDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.deviceidDataGridViewTextBoxColumn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.recordBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.cbDeviceName = new System.Windows.Forms.ComboBox();
+            this.btnLoad = new System.Windows.Forms.Button();
+            this.panel3 = new System.Windows.Forms.Panel();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
-            this.panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.recordBindingSource)).BeginInit();
+            this.panel4.SuspendLayout();
             this.SuspendLayout();
             // 
             // label1
@@ -58,10 +58,11 @@ namespace WinApp.View
             this.label1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(42)))), ((int)(((byte)(83)))));
-            this.label1.Location = new System.Drawing.Point(292, 9);
+            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.Location = new System.Drawing.Point(389, 11);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(86, 25);
+            this.label1.Size = new System.Drawing.Size(101, 29);
             this.label1.TabIndex = 7;
             this.label1.Text = "STATIC";
             // 
@@ -71,10 +72,11 @@ namespace WinApp.View
             this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(42)))), ((int)(((byte)(83)))));
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button5.ForeColor = System.Drawing.Color.LightGray;
-            this.button5.Location = new System.Drawing.Point(3, 3);
+            this.button5.ForeColor = System.Drawing.Color.Black;
+            this.button5.Location = new System.Drawing.Point(4, 4);
+            this.button5.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(25, 25);
+            this.button5.Size = new System.Drawing.Size(33, 31);
             this.button5.TabIndex = 14;
             this.button5.Text = "X";
             this.button5.UseVisualStyleBackColor = true;
@@ -86,8 +88,9 @@ namespace WinApp.View
             this.panel1.Controls.Add(this.button5);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(684, 38);
+            this.panel1.Size = new System.Drawing.Size(912, 47);
             this.panel1.TabIndex = 15;
             // 
             // panel2
@@ -95,9 +98,10 @@ namespace WinApp.View
             this.panel2.Controls.Add(this.dataGridView1);
             this.panel2.Controls.Add(this.panel4);
             this.panel2.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.panel2.Location = new System.Drawing.Point(0, 41);
+            this.panel2.Location = new System.Drawing.Point(0, 50);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(684, 390);
+            this.panel2.Size = new System.Drawing.Size(912, 480);
             this.panel2.TabIndex = 17;
             // 
             // dataGridView1
@@ -115,10 +119,53 @@ namespace WinApp.View
             this.dataGridView1.DataSource = this.recordBindingSource;
             this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.dataGridView1.GridColor = System.Drawing.SystemColors.ActiveCaption;
-            this.dataGridView1.Location = new System.Drawing.Point(256, 0);
+            this.dataGridView1.Location = new System.Drawing.Point(341, 0);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(428, 390);
+            this.dataGridView1.RowHeadersWidth = 51;
+            this.dataGridView1.Size = new System.Drawing.Size(571, 480);
             this.dataGridView1.TabIndex = 1;
+            // 
+            // idDataGridViewTextBoxColumn
+            // 
+            this.idDataGridViewTextBoxColumn.DataPropertyName = "id";
+            this.idDataGridViewTextBoxColumn.HeaderText = "id";
+            this.idDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
+            this.idDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // createdatDataGridViewTextBoxColumn
+            // 
+            this.createdatDataGridViewTextBoxColumn.DataPropertyName = "created_at";
+            this.createdatDataGridViewTextBoxColumn.HeaderText = "Time";
+            this.createdatDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.createdatDataGridViewTextBoxColumn.Name = "createdatDataGridViewTextBoxColumn";
+            // 
+            // temperatureDataGridViewTextBoxColumn
+            // 
+            this.temperatureDataGridViewTextBoxColumn.DataPropertyName = "temperature";
+            this.temperatureDataGridViewTextBoxColumn.HeaderText = "Temperature";
+            this.temperatureDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.temperatureDataGridViewTextBoxColumn.Name = "temperatureDataGridViewTextBoxColumn";
+            // 
+            // humidityDataGridViewTextBoxColumn
+            // 
+            this.humidityDataGridViewTextBoxColumn.DataPropertyName = "humidity";
+            this.humidityDataGridViewTextBoxColumn.HeaderText = "Humidity";
+            this.humidityDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.humidityDataGridViewTextBoxColumn.Name = "humidityDataGridViewTextBoxColumn";
+            // 
+            // deviceidDataGridViewTextBoxColumn
+            // 
+            this.deviceidDataGridViewTextBoxColumn.DataPropertyName = "device_id";
+            this.deviceidDataGridViewTextBoxColumn.HeaderText = "device_id";
+            this.deviceidDataGridViewTextBoxColumn.MinimumWidth = 6;
+            this.deviceidDataGridViewTextBoxColumn.Name = "deviceidDataGridViewTextBoxColumn";
+            this.deviceidDataGridViewTextBoxColumn.Visible = false;
+            // 
+            // recordBindingSource
+            // 
+            this.recordBindingSource.DataSource = typeof(WinApp.Model.Record);
             // 
             // panel4
             // 
@@ -127,9 +174,34 @@ namespace WinApp.View
             this.panel4.Controls.Add(this.btnLoad);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel4.Location = new System.Drawing.Point(0, 0);
+            this.panel4.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(256, 390);
+            this.panel4.Size = new System.Drawing.Size(341, 480);
             this.panel4.TabIndex = 0;
+            // 
+            // label2
+            // 
+            this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.Black;
+            this.label2.Location = new System.Drawing.Point(67, 132);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(166, 29);
+            this.label2.TabIndex = 18;
+            this.label2.Text = "Device Name";
+            // 
+            // cbDeviceName
+            // 
+            this.cbDeviceName.BackColor = System.Drawing.Color.White;
+            this.cbDeviceName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(42)))), ((int)(((byte)(83)))));
+            this.cbDeviceName.FormattingEnabled = true;
+            this.cbDeviceName.Location = new System.Drawing.Point(67, 177);
+            this.cbDeviceName.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.cbDeviceName.Name = "cbDeviceName";
+            this.cbDeviceName.Size = new System.Drawing.Size(171, 24);
+            this.cbDeviceName.TabIndex = 17;
             // 
             // btnLoad
             // 
@@ -138,9 +210,10 @@ namespace WinApp.View
             this.btnLoad.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnLoad.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLoad.ForeColor = System.Drawing.Color.LightGray;
-            this.btnLoad.Location = new System.Drawing.Point(50, 189);
+            this.btnLoad.Location = new System.Drawing.Point(67, 233);
+            this.btnLoad.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnLoad.Name = "btnLoad";
-            this.btnLoad.Size = new System.Drawing.Size(129, 40);
+            this.btnLoad.Size = new System.Drawing.Size(172, 49);
             this.btnLoad.TabIndex = 16;
             this.btnLoad.Text = "Load Data";
             this.btnLoad.UseVisualStyleBackColor = false;
@@ -149,78 +222,22 @@ namespace WinApp.View
             // panel3
             // 
             this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(0, 38);
+            this.panel3.Location = new System.Drawing.Point(0, 47);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(684, 3);
+            this.panel3.Size = new System.Drawing.Size(912, 3);
             this.panel3.TabIndex = 17;
-            // 
-            // cbDeviceName
-            // 
-            this.cbDeviceName.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(30)))), ((int)(((byte)(45)))));
-            this.cbDeviceName.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(42)))), ((int)(((byte)(83)))));
-            this.cbDeviceName.FormattingEnabled = true;
-            this.cbDeviceName.Location = new System.Drawing.Point(50, 144);
-            this.cbDeviceName.Name = "cbDeviceName";
-            this.cbDeviceName.Size = new System.Drawing.Size(129, 21);
-            this.cbDeviceName.TabIndex = 17;
-            // 
-            // label2
-            // 
-            this.label2.Anchor = System.Windows.Forms.AnchorStyles.Top;
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(42)))), ((int)(((byte)(83)))));
-            this.label2.Location = new System.Drawing.Point(50, 107);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(129, 25);
-            this.label2.TabIndex = 18;
-            this.label2.Text = "Device Name";
-            // 
-            // idDataGridViewTextBoxColumn
-            // 
-            this.idDataGridViewTextBoxColumn.DataPropertyName = "id";
-            this.idDataGridViewTextBoxColumn.HeaderText = "id";
-            this.idDataGridViewTextBoxColumn.Name = "idDataGridViewTextBoxColumn";
-            this.idDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // createdatDataGridViewTextBoxColumn
-            // 
-            this.createdatDataGridViewTextBoxColumn.DataPropertyName = "created_at";
-            this.createdatDataGridViewTextBoxColumn.HeaderText = "Time";
-            this.createdatDataGridViewTextBoxColumn.Name = "createdatDataGridViewTextBoxColumn";
-            // 
-            // temperatureDataGridViewTextBoxColumn
-            // 
-            this.temperatureDataGridViewTextBoxColumn.DataPropertyName = "temperature";
-            this.temperatureDataGridViewTextBoxColumn.HeaderText = "Temperature";
-            this.temperatureDataGridViewTextBoxColumn.Name = "temperatureDataGridViewTextBoxColumn";
-            // 
-            // humidityDataGridViewTextBoxColumn
-            // 
-            this.humidityDataGridViewTextBoxColumn.DataPropertyName = "humidity";
-            this.humidityDataGridViewTextBoxColumn.HeaderText = "Humidity";
-            this.humidityDataGridViewTextBoxColumn.Name = "humidityDataGridViewTextBoxColumn";
-            // 
-            // deviceidDataGridViewTextBoxColumn
-            // 
-            this.deviceidDataGridViewTextBoxColumn.DataPropertyName = "device_id";
-            this.deviceidDataGridViewTextBoxColumn.HeaderText = "device_id";
-            this.deviceidDataGridViewTextBoxColumn.Name = "deviceidDataGridViewTextBoxColumn";
-            this.deviceidDataGridViewTextBoxColumn.Visible = false;
-            // 
-            // recordBindingSource
-            // 
-            this.recordBindingSource.DataSource = typeof(WinApp.Model.Record);
             // 
             // frmStatic
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(32)))), ((int)(((byte)(30)))), ((int)(((byte)(45)))));
-            this.ClientSize = new System.Drawing.Size(684, 431);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(912, 530);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "frmStatic";
             this.Text = "frmStatic";
             this.Load += new System.EventHandler(this.frmStatic_Load);
@@ -228,9 +245,9 @@ namespace WinApp.View
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.recordBindingSource)).EndInit();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.recordBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }

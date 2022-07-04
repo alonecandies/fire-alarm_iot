@@ -97,7 +97,7 @@ const LoginView = () => {
 										color='textSecondary'
 										gutterBottom
 										variant='body2'>
-										Xin chào đến với Huster LTNC
+										Xin chào đến với Huster OOAD
 									</Typography>
 								</Box>
 								<TextField

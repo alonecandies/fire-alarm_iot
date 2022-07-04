@@ -41,7 +41,7 @@ namespace demoAPI
 
             services.Configure<ForwardedHeadersOptions>(options =>
             {
-                options.KnownProxies.Add(IPAddress.Parse("35.236.159.135"));
+                options.KnownProxies.Add(IPAddress.Parse("localhost"));
             });
             services.AddSignalR(hubOptions =>
             {

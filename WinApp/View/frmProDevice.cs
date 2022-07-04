@@ -16,5 +16,10 @@ namespace WinApp.View
         {
             InitializeComponent();
         }
+
+        private void item1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
