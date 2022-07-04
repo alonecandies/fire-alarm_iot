@@ -1,0 +1,158 @@
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.g.cs
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.lref
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe.config
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll.config
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\VstJson.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll.config
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.baml
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.g.resources
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.Properties.Resources.resources
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CopyComplete
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\IoT\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\DeviceDemo.exe.config
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\DeviceDemo.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\MvcEngine.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\MvcEngine.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\MvcEngine.dll.config
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\VstJson.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\VstJson.dll.config
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\Views\Home\StartBox.g.cs
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.lref
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\Views\Home\StartBox.baml
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.g.resources
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.Properties.Resources.resources
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.csproj.CopyComplete
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\IoT\DeviceDemo v3.0\DeviceDemo\obj\Debug\DeviceDemo.pdb
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe.config
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.pdb
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.pdb
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll.config
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\VstJson.pdb
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll.config
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.g.cs
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.cache
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.lref
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.baml
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.g.resources
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.Properties.Resources.resources
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CopyComplete
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\IoT - Copy\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.pdb
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe.config
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.pdb
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.pdb
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll.config
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\VstJson.pdb
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll.config
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.g.cs
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.cache
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.lref
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.baml
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.g.resources
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.Properties.Resources.resources
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CopyComplete
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.exe
+C:\Users\Admin\Desktop\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe.config
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.exe
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\DeviceDemo.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\MvcEngine.dll.config
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\VstJson.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\VstJson.dll.config
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\M2Mqtt.Net.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.AssemblyReference.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.SuggestedBindingRedirects.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.g.cs
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.g.cs
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\App.g.cs
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo_MarkupCompile.lref
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\MainWindow.baml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\Views\Home\StartBox.baml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.g.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.Properties.Resources.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.GenerateResource.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CoreCompileInputs.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.csproj.CopyComplete
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.exe
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\DeviceDemo\DeviceDemo\obj\Debug\DeviceDemo.pdb

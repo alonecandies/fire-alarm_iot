@@ -1,0 +1,63 @@
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\VstJson.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\VstJson.pdb
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\obj\Debug\VstJson.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\obj\Debug\VstJson.pdb
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\obj\Debug\VstJson.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\VstJson.dll.config
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Buffers.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Codecs.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Codecs.Mqtt.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Common.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Transport.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Buffers.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Codecs.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Codecs.Mqtt.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Common.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\DotNetty.Transport.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Admin\Desktop\IoT\VstJson\VstJson\bin\Debug\M2Mqtt.Net.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\VstJson.dll.config
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\VstJson.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\VstJson.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\DotNetty.Buffers.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\DotNetty.Codecs.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\DotNetty.Codecs.Mqtt.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\DotNetty.Common.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\DotNetty.Transport.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\M2Mqtt.Net.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\Newtonsoft.Json.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\Newtonsoft.Json.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\Newtonsoft.Json.Bson.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\System.Collections.Immutable.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\obj\Debug\VstJson.csproj.AssemblyReference.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\obj\Debug\VstJson.csproj.CoreCompileInputs.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\obj\Debug\VstJson.csproj.CopyComplete
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\obj\Debug\VstJson.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\DeviceDemo\VstJson\VstJson\obj\Debug\VstJson.pdb

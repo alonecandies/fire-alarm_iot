@@ -1,0 +1,36 @@
+*{
+    font-family: 'Roboto';
+}
+.text-editor {
+    height: calc(100% - 50px);
+}
+.quill {
+    height: calc(100% - 50px);
+}
+.ql-editor {
+    font-size: 18px;
+    min-height: 300px;
+}
+.ql-editor .ql-video {
+    display: block;
+    max-width: 100%;
+    margin: auto !important;
+    width: 50%;
+    height: 250px;
+}
+.ql-snow .ql-editor pre.ql-syntax {
+    background-color: #283142 !important;
+    color: #ffff !important;
+}
+.ql-snow .ql-editor img {
+    max-width: 100%;
+    display: block;
+
+    margin: auto;
+    border: 0.5px solid lightgrey;
+    border-radius: 3px;
+    padding: 6px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    box-shadow: var(--box-shadow);
+}

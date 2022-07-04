@@ -1,0 +1,67 @@
+F:\20202\WinApp\bin\Debug\WinApp.exe.config
+F:\20202\WinApp\bin\Debug\WinApp.exe
+F:\20202\WinApp\bin\Debug\WinApp.pdb
+F:\20202\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+F:\20202\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+F:\20202\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+F:\20202\WinApp\obj\Debug\WinApp.exe
+F:\20202\WinApp\obj\Debug\WinApp.pdb
+F:\20202\WinApp\obj\Debug\WinApp.Form1.resources
+F:\20202\WinApp\obj\Debug\WinApp.View.frmInfor.resources
+F:\20202\WinApp\bin\Debug\Newtonsoft.Json.dll
+F:\20202\WinApp\bin\Debug\Newtonsoft.Json.xml
+F:\20202\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+F:\20202\WinApp\obj\Debug\WinApp.View.frmLogin.resources
+F:\20202\WinApp\bin\Debug\CircularProgressBar.dll
+F:\20202\WinApp\bin\Debug\WinFormAnimation.dll
+F:\20202\WinApp\bin\Debug\CircularProgressBar.xml
+F:\20202\WinApp\obj\Debug\WinApp.View.frmDashboard.resources
+F:\20202\WinApp\obj\Debug\WinApp.View.Item.resources
+F:\20202\WinApp\obj\Debug\WinApp.csprojAssemblyReference.cache
+F:\20202\WinApp\obj\Debug\WinApp.View.frmStation.resources
+F:\20202\WinApp\bin\Debug\LiveCharts.dll
+F:\20202\WinApp\bin\Debug\LiveCharts.WinForms.dll
+F:\20202\WinApp\bin\Debug\LiveCharts.Wpf.dll
+F:\20202\WinApp\bin\Debug\LiveCharts.pdb
+F:\20202\WinApp\bin\Debug\LiveCharts.xml
+F:\20202\WinApp\bin\Debug\LiveCharts.WinForms.pdb
+F:\20202\WinApp\bin\Debug\LiveCharts.WinForms.xml
+F:\20202\WinApp\bin\Debug\LiveCharts.Wpf.pdb
+F:\20202\WinApp\bin\Debug\LiveCharts.Wpf.xml
+F:\20202\WinApp\obj\Debug\WinApp.View.frmStatic.resources
+F:\20202\WinApp\obj\Debug\WinApp.View.frmTempSet.resources
+F:\20202\WinApp\obj\Debug\WinApp.View.frmProDevice.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\WinApp.exe.config
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\WinApp.exe
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\WinApp.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\CircularProgressBar.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.WinForms.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.Wpf.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\Newtonsoft.Json.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\WinFormAnimation.dll
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\CircularProgressBar.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.WinForms.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.WinForms.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.Wpf.pdb
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\LiveCharts.Wpf.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\bin\Debug\Newtonsoft.Json.xml
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.csproj.AssemblyReference.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.csproj.SuggestedBindingRedirects.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.Properties.Resources.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.frmDashboard.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.frmInfor.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.frmLogin.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.frmProDevice.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.frmStatic.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.frmStation.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.frmTempSet.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.View.Item.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.Form1.resources
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.csproj.GenerateResource.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.csproj.CoreCompileInputs.cache
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.csproj.CopyComplete
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.exe
+E:\Tai lieu\20212\OOAD\20202LTNC20172394\SourceCodeVaBaoCaoLTNC20172394\WinApp\obj\Debug\WinApp.pdb
