@@ -3,11 +3,13 @@ using UserAPi;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 
 namespace demoAPI.Controllers
 {   
     [ApiController]
     [Route("[controller]")]
+    [EnableCors("_myAllowSpecificOrigins")]
     public class AuthenController:ControllerBase
     {
         public AppDb Db { get; }
@@ -16,7 +18,6 @@ namespace demoAPI.Controllers
         {
             Db = db;
         }
-        
         [HttpGet]
         public async Task<IActionResult> CheckToken()
         {

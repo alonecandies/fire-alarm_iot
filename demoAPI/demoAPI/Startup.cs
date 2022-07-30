@@ -15,6 +15,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Microsoft.AspNetCore.Cors;
 using MySqlConnector;
 
 namespace demoAPI
@@ -35,8 +36,8 @@ namespace demoAPI
         {
             services.AddCors(options =>
             {
-                options.AddPolicy(name:MyAllowSpecificOrigins,
-                    builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod() );
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                    builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod().Build());
             });
 
             services.Configure<ForwardedHeadersOptions>(options =>
@@ -64,16 +65,17 @@ namespace demoAPI
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "demoAPI v1"));
             }
+           
+            // app.UseWebSockets();
+            // app.UseHttpsRedirection();
+            app.UseRouting();
             app.UseForwardedHeaders(new ForwardedHeadersOptions
             {
                 ForwardedHeaders = ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto
             });
-           
-            // app.UseWebSockets();
-            app.UseHttpsRedirection();
-            app.UseRouting();
             app.UseCors(MyAllowSpecificOrigins);
             app.UseMiddleware<AuthenMiddleWare>();
+            app.UseAuthentication();
             app.UseAuthorization();
             app.UseEndpoints(endpoints =>
             {

@@ -2,11 +2,13 @@ using System;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using MySqlConnector;
+using Microsoft.AspNetCore.Cors;
 
 namespace demoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [EnableCors("_myAllowSpecificOrigins")]
     public class PhoneController:ControllerBase
     {
         public AppDb Db { get; }
@@ -39,7 +41,7 @@ namespace demoAPI.Controllers
                 return BadRequest(new { success= false , msg = "lỗi server",detail = e.Message});
             }
         }
-        
+
         // edit
         [HttpPut("{id}")]
         public async Task<IActionResult> Edit(int id , [FromBody]Phone phone  )
@@ -57,7 +59,6 @@ namespace demoAPI.Controllers
                 return BadRequest(new { success= false , msg = "lỗi server",detail = e.Message});
             }
         }
-
         [HttpGet("{deviceId}")]
         public async Task<IActionResult> GetByDeviceId(int deviceId)
         {
@@ -67,7 +68,6 @@ namespace demoAPI.Controllers
             if (result is null) return BadRequest(new { success= false , msg = "Tài nguyên không tồn tại"});;
             return new OkObjectResult(result);
         }
-
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {

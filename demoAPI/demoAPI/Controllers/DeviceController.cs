@@ -2,11 +2,13 @@ using System;
 using System.Threading.Tasks;
 using DeviceApi;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 
 namespace demoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [EnableCors("_myAllowSpecificOrigins")]
     public class DeviceController : ControllerBase
     {
         public AppDb Db { get; }
@@ -15,7 +17,6 @@ namespace demoAPI.Controllers
         {
             Db = db;
         }
-
         // GET all
         [HttpGet]
         public async Task<IActionResult> GetAll()
@@ -35,7 +36,7 @@ namespace demoAPI.Controllers
             var result = await device.GetListDevicesByLocationId();
             return new OkObjectResult(result);
         }
-        
+
         // GET Device Status by id
         [HttpGet( "Status/{device_id}")]
         public async Task<IActionResult> GetStatusById(int device_id)
@@ -46,7 +47,7 @@ namespace demoAPI.Controllers
             var result = await device.GetDeviceStatusById();
             return new OkObjectResult(result);
         }
-        
+
         // Create 
         [HttpPost]
         public async Task<IActionResult> Post([FromBody]Device device)
@@ -66,7 +67,6 @@ namespace demoAPI.Controllers
             }
         }
         //Edit
-        
         [HttpPut("{id}")]
         public async Task<IActionResult> Put(int id , [FromBody]Device device )
         {
@@ -85,7 +85,7 @@ namespace demoAPI.Controllers
                 return BadRequest(new { success= false , msg = "lỗi server",detail = e.Message});
             }
         }
-        
+
         //Delete
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)

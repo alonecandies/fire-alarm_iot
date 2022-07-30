@@ -3,11 +3,13 @@ using System.Threading.Tasks;
 using LocationApi;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 
 namespace demoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [EnableCors("_myAllowSpecificOrigins")]
     public class LocationController : ControllerBase
     {
         public AppDb Db { get; }
@@ -38,7 +40,6 @@ namespace demoAPI.Controllers
             return new OkObjectResult(result);
         }
         // Create 
-        
         [HttpPost]
         public async Task<IActionResult> Post([FromBody]Location body)
         {
@@ -55,7 +56,7 @@ namespace demoAPI.Controllers
                 return BadRequest(new { success= false , msg = "lỗi server",detail = e.Message});
             }
         }
-        
+
         // edit
         [HttpPut("{id}")]
         public async Task<IActionResult> Edit(int id ,[FromBody]Location body )

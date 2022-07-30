@@ -2,11 +2,13 @@ using System;
 using System.Threading.Tasks;
 using DeviceApi;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Cors;
 
 namespace demoAPI.Controllers
 {
     [ApiController]
     [Route("[controller]")]
+    [EnableCors("_myAllowSpecificOrigins")]
     public class RecordController : ControllerBase
     {
         public AppDb Db { get; }
@@ -33,7 +35,6 @@ namespace demoAPI.Controllers
             }
             
         }
-
         [HttpGet("{deviceId}")]
         public async Task<IActionResult> GetByDeviceId(int deviceId)
         {
